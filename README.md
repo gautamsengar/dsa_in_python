@@ -12,10 +12,10 @@ This repo contains solutions to various DSA problems that I solve while practici
 
 Example structure:
 /Arrays
-├── TwoSum.py
-├── MaxSubarray.py
+   ├── TwoSum.py
+   ├── MaxSubarray.py
 /Strings
-├── PalindromeCheck.py
-├── Anagram.py
+   ├── PalindromeCheck.py
+   ├── Anagram.py
 /LinkedList
-├── ReverseLinkedList.py
+   ├── ReverseLinkedList.py

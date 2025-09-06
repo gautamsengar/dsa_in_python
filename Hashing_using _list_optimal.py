@@ -8,3 +8,10 @@ for i in n:
        print(0)
    else:
        print(f"the number {i} is present in list {hashing_list[i]} times")
+#his makes the complexity:
+
+# Counting loop: O(M)
+
+# Query loop: O(N)
+
+# 👉 Total = O(M + N)

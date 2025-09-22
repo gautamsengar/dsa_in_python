@@ -8,5 +8,5 @@ def fact(number):
     
 print("the factorial of given number is ",fact(number))
 
-#time complexity : O(n)
-#space complexity : O(n) (recursion stack involved)
+ #time complexity : O(n)
+ #space complexity : O(n) (recursion stack involved)

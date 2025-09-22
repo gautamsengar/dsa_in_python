@@ -8,4 +8,7 @@ class Solution:
 answer=Solution()
 print(answer.fib(6))
 
+# Time Complexity: O(2^n)
+
+# Space Complexity: O(n)
  
